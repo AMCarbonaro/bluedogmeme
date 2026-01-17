@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Twitter } from "lucide-react";
+import { Twitter, MessageSquare } from "lucide-react";
 
 export default function Footer() {
   return (
@@ -75,6 +75,15 @@ export default function Footer() {
                 aria-label="Twitter"
               >
                 <Twitter size={24} />
+              </a>
+              <a
+                href="https://t.me/+H1yOTM4f0p00MTZh"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-300 hover:text-white transition-colors"
+                aria-label="Telegram"
+              >
+                <MessageSquare size={24} />
               </a>
             </div>
           </div>

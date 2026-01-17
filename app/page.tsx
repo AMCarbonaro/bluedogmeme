@@ -398,11 +398,17 @@ export default function Home() {
                 <p className="text-gray-600 mb-4">Follow for updates, memes, and campaigns</p>
                 <span className="text-primary-blue font-semibold">Join Twitter →</span>
               </a>
-              <div className="bg-gray-100 rounded-xl p-8 text-center opacity-60">
-                <MessageSquare className="text-gray-400 mx-auto mb-4" size={48} />
-                <h3 className="font-bold text-xl mb-2 text-gray-500">Telegram</h3>
-                <p className="text-gray-500 mb-4">Coming soon</p>
-              </div>
+              <a
+                href="https://t.me/+H1yOTM4f0p00MTZh"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-white rounded-xl p-8 shadow-lg hover:shadow-xl transition-shadow text-center group"
+              >
+                <MessageSquare className="text-primary-blue mx-auto mb-4 group-hover:scale-110 transition-transform" size={48} />
+                <h3 className="font-bold text-xl mb-2">Telegram</h3>
+                <p className="text-gray-600 mb-4">Join our community chat</p>
+                <span className="text-primary-blue font-semibold">Join Telegram →</span>
+              </a>
               <div className="bg-gray-100 rounded-xl p-8 text-center opacity-60">
                 <Users className="text-gray-400 mx-auto mb-4" size={48} />
                 <h3 className="font-bold text-xl mb-2 text-gray-500">Discord</h3>
