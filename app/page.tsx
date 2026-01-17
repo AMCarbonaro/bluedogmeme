@@ -187,7 +187,9 @@ export default function Home() {
               Join the Blue Dog revolution and help us fight corporate overpricing using these powerful principles.
             </p>
             <a
-              href="#"
+              href="https://pump.fun/coin/B1ydv4JzMzVXf5ekdVsQXWHgTUHsSiAib7XM1WCdpump"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-block bg-accent-red text-white px-8 py-4 rounded-full font-bold hover:bg-red-600 transition-colors mr-4"
             >
               Buy $BLUEDOG on pump.fun
@@ -316,7 +318,9 @@ export default function Home() {
               <h3 className="font-display font-bold text-3xl md:text-4xl mb-4">Ready to Buy $BLUEDOG?</h3>
               <p className="text-lg text-white/90 mb-6">Click below to buy $BLUEDOG on pump.fun!</p>
               <a
-                href="#"
+                href="https://pump.fun/coin/B1ydv4JzMzVXf5ekdVsQXWHgTUHsSiAib7XM1WCdpump"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-block bg-accent-red text-white px-8 py-4 rounded-full font-bold text-lg hover:bg-red-600 transition-colors"
               >
                 Buy on pump.fun
@@ -414,7 +418,9 @@ export default function Home() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <a
-                  href="#"
+                  href="https://pump.fun/coin/B1ydv4JzMzVXf5ekdVsQXWHgTUHsSiAib7XM1WCdpump"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="bg-accent-red text-white px-8 py-4 rounded-full font-bold hover:bg-red-600 transition-colors"
                 >
                   Buy $BLUEDOG
@@ -478,7 +484,9 @@ export default function Home() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="#"
+              href="https://pump.fun/coin/B1ydv4JzMzVXf5ekdVsQXWHgTUHsSiAib7XM1WCdpump"
+              target="_blank"
+              rel="noopener noreferrer"
               className="bg-accent-red text-white px-8 py-4 rounded-full font-bold text-lg hover:bg-red-600 transition-colors"
             >
               Buy $BLUEDOG on pump.fun

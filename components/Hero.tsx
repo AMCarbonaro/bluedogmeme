@@ -40,7 +40,9 @@ export default function Hero() {
           {/* CTAs */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
             <motion.a
-              href="#"
+              href="https://pump.fun/coin/B1ydv4JzMzVXf5ekdVsQXWHgTUHsSiAib7XM1WCdpump"
+              target="_blank"
+              rel="noopener noreferrer"
               className="bg-accent-red text-white px-8 py-4 rounded-full font-bold text-lg hover:bg-red-600 transition-colors flex items-center gap-2 shadow-lg"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}

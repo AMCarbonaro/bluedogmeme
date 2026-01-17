@@ -106,7 +106,9 @@ export default function HowToBuyPage() {
             Click below to buy $BLUEDOG on pump.fun. Make sure you have SOL in your wallet!
           </p>
           <a
-            href="#"
+            href="https://pump.fun/coin/B1ydv4JzMzVXf5ekdVsQXWHgTUHsSiAib7XM1WCdpump"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-block bg-accent-red text-white px-8 py-4 rounded-full font-bold text-lg hover:bg-red-600 transition-colors flex items-center gap-2 mx-auto"
           >
             Buy on pump.fun

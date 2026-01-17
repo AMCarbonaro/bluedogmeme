@@ -43,7 +43,9 @@ export default function Header() {
               </Link>
             ))}
             <a
-              href="#"
+              href="https://pump.fun/coin/B1ydv4JzMzVXf5ekdVsQXWHgTUHsSiAib7XM1WCdpump"
+              target="_blank"
+              rel="noopener noreferrer"
               className="bg-accent-red text-white px-6 py-2 rounded-full font-semibold hover:bg-red-600 transition-colors"
             >
               Buy on pump.fun
@@ -74,7 +76,9 @@ export default function Header() {
               </a>
             ))}
             <a
-              href="#"
+              href="https://pump.fun/coin/B1ydv4JzMzVXf5ekdVsQXWHgTUHsSiAib7XM1WCdpump"
+              target="_blank"
+              rel="noopener noreferrer"
               className="block bg-accent-red text-white px-6 py-2 rounded-full font-semibold text-center hover:bg-red-600 transition-colors"
             >
               Buy on pump.fun

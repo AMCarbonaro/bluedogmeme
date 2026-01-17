@@ -138,7 +138,9 @@ export default function RoadmapPage() {
             to fighting corporate overpricing and demanding economic justice.
           </p>
           <a
-            href="#"
+            href="https://pump.fun/coin/B1ydv4JzMzVXf5ekdVsQXWHgTUHsSiAib7XM1WCdpump"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-block bg-accent-red text-white px-8 py-4 rounded-full font-bold hover:bg-red-600 transition-colors"
           >
             Buy $BLUEDOG on pump.fun
